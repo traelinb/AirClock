@@ -15,11 +15,21 @@
 
 ## 项目结构
 
-    Project6/
-    ├── main.cpp        # 主程序入口
-    ├── abc.jpg         # 贴图资源
-    ├── apple.png       # 贴图资源
-    └── Project6.sln
+
+```text
+AirClock/
+├── Project6.sln 
+├── README.md   
+├── .gitignore
+├── .gitattributes
+│
+└── Project6/
+    ├── main.cpp               
+    ├── abc.jpg              
+    ├── apple.png              
+    ├── Project6.vcxproj       
+    └── Project6.vcxproj.filters
+```
 ## 依赖
 
 - Windows + Visual Studio 2019+
